@@ -6,8 +6,8 @@ title: Brigham Young's Resume
 A great balance of interpersonal skills, creative thinking, and quantitative reasoning. I love connecting the world together and finding unexpected solutions to problems.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="dri22001@byui.edu">dri22001@byui.edu</a>
+| <a href="[https://www.linkedin.com/in/spencer-driggs-3441a6149/]s">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
